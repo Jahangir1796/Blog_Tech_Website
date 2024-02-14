@@ -66,12 +66,12 @@ html{
     padding: 5px 8px;
     outline: none;
     background: none;
-    color: rgb(5, 5, 5);
+    color:white;
     cursor: pointer;
 }
 
 .background {
-    background: rgba(0, 0, 0, 0.7) url('/bg.jpg');
+    background: rgba(0, 0, 0, 0.7) url('../images/bg.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
